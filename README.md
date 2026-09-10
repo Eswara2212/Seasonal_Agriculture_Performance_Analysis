@@ -380,9 +380,9 @@ Therefore:
 **Program:** VOIS AICTE Batch 1
 **Academic Year:** 2026–2027
 
-**Student Name:** `[ENTER YOUR NAME]`
-**College:** `[ENTER COLLEGE NAME]`
-**AICTE Student ID:** `[ENTER AICTE STUDENT ID]`
+**Student Name:** Immidisetti Eswara Rao
+**College:** Sir C. R. Reddy College of Enfineering
+**AICTE Student ID:** 
 
 ---
 
